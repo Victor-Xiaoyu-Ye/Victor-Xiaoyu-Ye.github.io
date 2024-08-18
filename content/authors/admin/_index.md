@@ -54,11 +54,11 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: CUHK(SZ)
-    date_start: 2024
+    date_start: 2024-09-01
   - area: BSc Cyberspace Science and Technology
     institution: Beijing Institute of Technology
-    date_start: 2020-10
-    date_end: 2024-06
+    date_start: 2020-10-01
+    date_end: 2024-06-30
 work:
   - position: Research Assistant
     company_name: CUHK(SZ)
