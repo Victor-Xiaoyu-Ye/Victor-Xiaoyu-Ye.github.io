@@ -65,7 +65,7 @@ work:
     company_url: 'https://mypage.cuhk.edu.cn/academics/lizhen/'
     company_logo: ''
     date_start: 2024-05-01
-    date_end: '2024-08.31'
+    date_end: '2024-08-31'
     summary: |2-
       Responsibilities include:
       - 3D Single Object Tracking
