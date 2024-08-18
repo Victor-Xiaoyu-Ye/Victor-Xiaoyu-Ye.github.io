@@ -76,7 +76,7 @@ work:
     company_url: 'https://air.tsinghua.edu.cn/'
     company_logo: ''
     date_start: 2023-04-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     summary: |
       Responsibilities include:
       - Develop Simulator for Autonomous Driving
