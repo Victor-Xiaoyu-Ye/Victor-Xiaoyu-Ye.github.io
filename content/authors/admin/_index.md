@@ -3,7 +3,7 @@
 title: Xiaoyu Ye
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Xiaoyu
@@ -21,7 +21,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Ph.D. student 
-
 The chinese University of Hong Hong, shenzhen
 
 # Organizations/Affiliations to display in Biography blox
