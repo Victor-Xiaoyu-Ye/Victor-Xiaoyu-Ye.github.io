@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/Xiaoyu_Y3
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Victor-Xiaoyu-Ye
   - icon: brands/linkedin
@@ -52,7 +50,7 @@ interests:
   - Scene Understanding
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Computer and Information Engineer
     institution: CUHK(SZ)
     date_start: 2024-09-01
   - area: BSc Cyberspace Science and Technology
