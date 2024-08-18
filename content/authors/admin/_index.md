@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. student at The chinese University of Hong Hong, shenzhen
+role: Ph.D. student 
+
+The chinese University of Hong Hong, shenzhen
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
