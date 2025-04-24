@@ -24,7 +24,10 @@ marketing:
     pirsch: ''
   verification:
     google: ''
-    baidu: ''
+    bing: ""
+    baidu: ""
+    yandex: ""
+    pinterest: ""
 
 # Site header
 header:
