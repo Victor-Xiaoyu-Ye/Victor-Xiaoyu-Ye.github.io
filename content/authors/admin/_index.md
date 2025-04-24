@@ -132,4 +132,4 @@ languages:
 
 ## Biography
 
-Xiaoyu Ye is a Ph.D. Student at DeepBit Lab at CUHK(SZ). He is also a research intern at Huawei Noah's Ark LAb. His research interests include Scene Reconsturction and Scene Understanding, Generative AI driven Autonomous Driving. He was a Research Intern at AiR lab at Tsinghua University, He was also a Research Assistant at CUHK(SZ).
+Xiaoyu Ye(冶晓宇) is a Ph.D. Student at DeepBit Lab at CUHK(SZ). He is also a research intern at Huawei Noah's Ark LAb. His research interests include Scene Reconsturction | Generation | Understanding, Generative AI driven Autonomous Driving. He was a Research Intern at AiR lab at Tsinghua University, He was also a Research Assistant at CUHK(SZ).
