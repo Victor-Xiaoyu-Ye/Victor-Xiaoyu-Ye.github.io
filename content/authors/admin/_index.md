@@ -3,7 +3,7 @@
 title: Xiaoyu Ye
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '冶晓宇'
 
 # Full name (for SEO)
 first_name: Xiaoyu
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. student 
+role: Ph.D. Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,8 +45,8 @@ profiles:
     url: https://orcid.org/0009-0003-1187-1880
 
 interests:
-  - 3D Computer Vision
   - Scene Reconstruction
+  - Scene Generation
   - Scene Understanding
 
 education:
@@ -58,6 +58,16 @@ education:
     date_start: 2020-10-01
     date_end: 2024-06-30
 work:
+  - position: Research Itern
+    company_name: Noah's Ark Lab, Huawei Technologies Co., Ltd
+    company_url: '[https://github.com/huawei-noah](https://github.com/huawei-noah)'
+    company_logo: ''
+    date_start: 2024-12-18
+    summary: |2-
+      Responsibilities include:
+      - End-to-end closed-loop simulation 
+      - Large scale Scene Generation
+      - Autonomous Driving Simulation and analysis
   - position: Research Assistant
     company_name: CUHK(SZ)
     company_url: 'https://mypage.cuhk.edu.cn/academics/lizhen/'
@@ -68,7 +78,6 @@ work:
       Responsibilities include:
       - 3D Single Object Tracking
       - Large Scene Reconstruction based on 3DGS
-      - Autonomous Driving Simulation and analysis
   - position: Research Intern
     company_name: DISCOVER Lab | Institute for AI Industry Research, Tsinghua University
     company_url: 'https://air.tsinghua.edu.cn/'
