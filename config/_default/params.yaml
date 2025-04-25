@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: "<meta name="google-site-verification" content="0xYWX84_0ZafEk-pra21kfTi4XzItNnwtefuvcvdY0M" />"
+    google: '<meta name="google-site-verification" content="0xYWX84_0ZafEk-pra21kfTi4XzItNnwtefuvcvdY0M" />'
     bing: ""
     baidu: ""
     yandex: ""
