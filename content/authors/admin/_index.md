@@ -1,34 +1,19 @@
 ---
 # Display name
 title: Xiaoyu Ye
-
-# Name pronunciation (optional)
 name_pronunciation: '冶晓宇'
-
-# Full name (for SEO)
 first_name: Xiaoyu
 last_name: Ye
-
-# Status emoji
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
-role: Ph.D. Student 
-
-# Organizations/Affiliations to display in Biography blox
+role: Ph.D. Student
 organizations:
-  - name: Deep Bit Lab
+  - name: Deep Bit Lab, CUHK-Shenzhen
     url: https://mypage.cuhk.edu.cn/academics/lizhen/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Keep the existing contact and profile links.
 profiles:
   - icon: at-symbol
     url: 'mailto:224010108@link.cuhk.edu.cn'
@@ -38,98 +23,99 @@ profiles:
   - icon: brands/github
     url: https://github.com/Victor-Xiaoyu-Ye
   - icon: brands/linkedin
-    url: www.linkedin.com/in/yexiaoyu
+    url: https://www.linkedin.com/in/yexiaoyu
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=piMObnAAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0003-1187-1880
 
 interests:
-  - Scene Reconstruction
-  - Scene Generation
-  - Scene Understanding
+  - Spatial Intelligence
+  - Multimodal LLMs
+  - 3D Scene Reconstruction and Generation
+  - Autonomous Driving Simulation
 
 education:
-  - area: PhD Computer and Information Engineer
-    institution: CUHK(SZ)
+  - area: Ph.D.
+    institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2024-09-01
-  - area: BSc Cyberspace Science and Technology
+    summary: |
+      Future Network of Intelligence Institute (FNii). Supervised by Prof. Zhen Li.
+  - area: Exchange Student in Informatics (Computer Science)
+    institution: Technical University of Munich, Germany
+    date_start: 2023-10-01
+    date_end: 2024-04-30
+  - area: B.Sc. in Cyberspace Science and Technology
     institution: Beijing Institute of Technology
     date_start: 2020-10-01
     date_end: 2024-06-30
+
 work:
-  - position: Research Itern
-    company_name: Noah's Ark Lab, Huawei Technologies Co., Ltd
-    company_url: '[https://github.com/huawei-noah](https://github.com/huawei-noah)'
-    company_logo: ''
-    date_start: 2024-12-18
-    summary: |2-
-      Responsibilities include:
-      - End-to-end closed-loop simulation 
-      - Large scale Scene Generation
-      - Autonomous Driving Simulation and analysis
-  - position: Research Assistant
-    company_name: CUHK(SZ)
-    company_url: 'https://mypage.cuhk.edu.cn/academics/lizhen/'
-    company_logo: ''
-    date_start: 2024-05-01
-    date_end: '2024-08-31'
-    summary: |2-
-      Responsibilities include:
-      - 3D Single Object Tracking
-      - Large Scene Reconstruction based on 3DGS
   - position: Research Intern
-    company_name: DISCOVER Lab | Institute for AI Industry Research, Tsinghua University
-    company_url: 'https://air.tsinghua.edu.cn/'
-    company_logo: ''
-    date_start: 2023-04-01
-    date_end: 2023-06-30
+    company_name: Foundation Model Group, 2012 Laboratories, Huawei
+    company_url: https://github.com/huawei-noah
+    date_start: 2024-12-18
     summary: |
-      Responsibilities include:
-      - Develop Simulator for Autonomous Driving
-      - Large Scene Reconstruction based on NeRF
-      - Semantic NeRF
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+      Formerly Noah's Ark Lab.
+      - Research in spatial intelligence and multimodal LLMs.
+      - Co-advised by Dr. Bingbing Liu, Dr. Xu Yan, and Dr. Yingjie Cai.
+  - position: Research Assistant
+    company_name: Deep Bit Lab, FNii, CUHK-Shenzhen
+    company_url: https://mypage.cuhk.edu.cn/academics/lizhen/
+    date_start: 2024-05-01
+    date_end: 2024-08-31
+    summary: |
+      - Research in large-scale 3D scene reconstruction and generation.
+      - Co-advised by Prof. Zhen Li and Prof. Shuguang Cui.
+  - position: Research Intern
+    company_name: DISCOVER Lab, Institute for AI Industry Research, Tsinghua University
+    company_url: https://air.tsinghua.edu.cn/
+    date_start: 2023-04-01
+    date_end: 2023-10-31
+    summary: |
+      - Research in neural 3D representations and 3D computer vision.
+      - Co-advised by Dr. Yongling Shi, Prof. Hao Zhao, and Prof. Ya-Qin Zhang.
+
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
-        description: ''
-        percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: C/C++
+        icon: code-bracket
+      - name: Java
+        icon: code-bracket
+      - name: JavaScript
+        icon: code-bracket
+  - name: Machine Learning and Tools
     items:
-      - name: Swim
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Film
-        description: ''
-        percent: 80
-        icon: camera
+      - name: PyTorch
+        icon: code-bracket
+      - name: NeRFStudio
+        icon: code-bracket
+      - name: LaTeX
+        icon: code-bracket
+      - name: Markdown
+        icon: code-bracket
+  - name: Operating Systems
+    items:
+      - name: Linux
+      - name: Windows
+  - name: Interests
+    items:
+      - name: Swimming
 
 languages:
-  - name: English
-    percent: 90
   - name: Chinese
-    percent: 100
+    proficiency: Native
+  - name: English
+    proficiency: Fluent
+  - name: German
+    proficiency: Basic
 ---
 
 ## Biography
 
-Xiaoyu Ye(冶晓宇) is a Ph.D. Student at DeepBit Lab at CUHK(SZ). He is also a research intern at Huawei Noah's Ark LAb. His research interests include Scene Reconsturction | Generation | Understanding, Generative AI driven Autonomous Driving. He was a Research Intern at AiR lab at Tsinghua University, He was also a Research Assistant at CUHK(SZ).
+I am a Ph.D. student in the [Future Network of Intelligence Institute (FNii)](https://fnii.cuhk.edu.cn/) at The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in Deep Bit Lab. I am also a research intern in the Foundation Model Group at Huawei's 2012 Laboratories, formerly Noah's Ark Lab.
+
+My research focuses on spatial intelligence, multimodal LLMs, and 3D scene reconstruction and generation, with applications in autonomous driving simulation. I previously worked as a research assistant at Deep Bit Lab and as a research intern at the DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. I received my B.Sc. in Cyberspace Science and Technology from Beijing Institute of Technology and studied Informatics as an exchange student at the Technical University of Munich.

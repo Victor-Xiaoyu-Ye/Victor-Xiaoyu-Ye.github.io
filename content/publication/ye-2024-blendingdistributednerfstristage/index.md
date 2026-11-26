@@ -3,7 +3,7 @@ title: Blending Distributed NeRFs with Tri-stage Robust Pose Optimization
 authors:
 - Baijun Ye
 - Caiyun Liu
-- Xiaoyu Ye
+- admin
 - Yuantao Chen
 - Yuhai Wang
 - Zike Yan

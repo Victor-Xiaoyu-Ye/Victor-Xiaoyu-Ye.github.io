@@ -4,16 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Xiaoyu Ye's Home Page
+title: Xiaoyu Ye | 冶晓宇
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://victor-xiaoyu-ye.github.io/'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 

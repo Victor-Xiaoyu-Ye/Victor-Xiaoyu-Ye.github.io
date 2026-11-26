@@ -14,16 +14,16 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Xiaoyu Ye (冶晓宇), Ph.D. student at CUHK-Shenzhen, researching spatial intelligence, multimodal large language models, 3D scene reconstruction and generation.'
     twitter: 'Xiaoyu_Y3'
   analytics:
-    google_analytics: 'google-site-verification=MwFwwP5wxXZtYSDMn0_5lF55BgiTeM_CaYZV2Y0LUf8'
+    google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: '<meta name="google-site-verification" content="0xYWX84_0ZafEk-pra21kfTi4XzItNnwtefuvcvdY0M" />'
+    google: '0xYWX84_0ZafEk-pra21kfTi4XzItNnwtefuvcvdY0M'
     bing: ""
     baidu: ""
     yandex: ""
@@ -43,7 +43,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Xiaoyu Ye. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

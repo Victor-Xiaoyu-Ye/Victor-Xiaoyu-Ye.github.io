@@ -12,7 +12,7 @@ authors:
 - Yuantao Chen
 - Runyi Yang
 - Yuxin Huang
-- Xiaoyu Ye
+- admin
 - Zike Yan
 - Yongliang Shi
 - Yiyi Liao
