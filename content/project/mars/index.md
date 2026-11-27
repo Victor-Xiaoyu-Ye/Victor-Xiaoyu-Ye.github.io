@@ -1,5 +1,7 @@
 ---
 title: NeRF-based Simulator for Autonomous Driving
+date: 2026-11-26
+hide_date: true
 summary: MARS reconstructs complex dynamic driving scenes with compositional neural radiance fields in a modular simulator built on NeRFStudio.
 weight: 2
 tags:
